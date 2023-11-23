@@ -1,0 +1,124 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+.leftside{
+    padding: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.bigpic img{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+.pic img{
+    border-radius: 50%;
+}
+.roundpic{
+    display: flex;
+    }
+
+    .up{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 10px;
+        color: red;
+    }
+
+    .kk{
+        display: flex;
+        margin-left: 10px;
+    }
+
+.newlove{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+.newa{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.pp{
+    margin-left: 10px;
+}
+
+
+
+.side{
+    display: flex;
+    align-items: center;
+    
+    
+}  
+ .love{
+    color: red;
+ }
+ .like{
+    color: blue;
+ }
+
+
+
+
+
+.world{
+    margin-left: 10px;
+}  
+
+
+.caption{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    
+    
+}
+.l{
+    display: flex;
+    align-items: center;
+    color: red;
+}
+.lov{
+    margin-left: 5px;
+    
+}
+.c{
+    display: flex;
+    align-items: center;
+    
+}
+
+.comment{
+    margin-left: 5px;
+}
+.s{
+    display: flex;
+    align-items: center;
+    
+}
+.share{
+    margin-left: 5px;
+}
+
+.lcs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
